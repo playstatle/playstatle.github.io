@@ -1,0 +1,5 @@
+datetime|user_id|input|response
+09:36:32am|Ub95654be5cf4144f8f16b50aeb2b2c73|JQ40001A|System error, please try later or contact at apinyako@utacgroup.com if any support needed.
+12:53:05pm|Ub95654be5cf4144f8f16b50aeb2b2c73|JQ40001A|System error, please try later or contact at apinyako@utacgroup.com if any support needed.
+12:54:28pm|Ub95654be5cf4144f8f16b50aeb2b2c73|JQ40001A|System error, please try later.
+01:31:26pm|Ub95654be5cf4144f8f16b50aeb2b2c73|D0016D3A|System error, please try later.
